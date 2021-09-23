@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitalRudakiya
-- 👀 I’m interested in ... Python, C#
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... C#, Python
+- 🌱 I’m currently learning ... Python, Angular
 - 📫 How to reach me ... mitalrudakiya96@gmail.com
 
 <!---
