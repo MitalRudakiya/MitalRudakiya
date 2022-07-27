@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MitalRudakiya
-- 👀 I’m interested in ... C#, Python
-- 🌱 I’m currently learning ... Python, Angular
+- 👋 Hi, I’m @MitalRudakiya working as Full Stack Developer
+- 👀 I’m interested in ... C#, Python, any coding language :)
+- 🌱 I’m currently learning ... Angular
 - 📫 How to reach me ... mitalrudakiya96@gmail.com
 
 <!---
